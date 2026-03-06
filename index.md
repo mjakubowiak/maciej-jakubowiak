@@ -4,5 +4,5 @@ cos tam
 
 innego
 
-[[druga.md]]
+[druga.md](druga.md)
 
