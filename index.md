@@ -1,4 +1,4 @@
-[najnowsze teksty](najnowsze.md) | [kontakt](kontakt.md)
+[najnowsze teksty](najnowsze.md) [kontakt](kontakt.md)
 
 ## Napisałem trzy książki
 
