@@ -1,7 +1,1 @@
 title: Nazywam się Maciej Jakubowiak
-theme: minima
-minima:
-  skin: auto
-  nav_pages:
-    - ksiazki.md
-    - kontakt.md
