@@ -1,3 +1,5 @@
+[najnowsze teksty](najnowsze.md) | [kontakt](kontakt.md)
+
 ## Napisałem trzy książki
 
 **[„Hanka. Opowieść o awansie"](https://czarne.com.pl/katalog/ksiazki/hanka)** (Wydawnictwo Czarne, 2024)
