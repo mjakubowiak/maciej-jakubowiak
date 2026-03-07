@@ -1,4 +1,8 @@
-[najnowsze teksty](najnowsze.md) | [kontakt](kontakt.md)
+---
+website: yes
+---
+
+[najnowsze](./najnowsze.md.md) | [kontakt](./kontakt.md.md)
 
 ## Napisałem trzy książki
 
