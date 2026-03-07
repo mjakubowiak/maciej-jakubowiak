@@ -2,7 +2,7 @@
 website: yes
 ---
 
-[najnowsze](najnowsze.md.md) | [kontakt](kontakt.md.md)
+[najnowsze.md](najnowsze.md.md.md) | [kontakt.md](kontakt.md.md.md)
 
 ## Napisałem trzy książki
 
