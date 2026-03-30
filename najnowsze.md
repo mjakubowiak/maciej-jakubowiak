@@ -2,7 +2,7 @@
 website: yes
 ---
 
-[najnowsze teksty](najnowsze.md) | [kontakt](kontakt.md)
+[najnowsze teksty](najnowsze.md) || [kontakt](kontakt.md)
 
 
 ## A to ostatnie rzeczy, które opublikowałem:
@@ -23,7 +23,7 @@ website: yes
 
 > Chyba trudno o lepszy poligon, na którym można obserwować ciągłe negocjacje między skostniałością pisma i swobodą mowy, niż polski dramat współczesny. Ale czy czytanie tekstów dramatycznych, zanim zrealizują się na scenie, ma w ogóle jakiś sens?
 
-### [Geniusze nie piszą grantów " Dwutygodnik](https://www.dwutygodnik.com/artykul/12248-geniusze-nie-pisza-grantow.html)
+### [Geniusze nie piszą grantów | Dwutygodnik](https://www.dwutygodnik.com/artykul/12248-geniusze-nie-pisza-grantow.html)
 
 > To zadziwiające, że Benjamín Labatut, autor tak obsesyjnie przejęty odkryciami naukowymi mającymi zrewolucjonizować nasze rozumienie świata, w swoim własnym pisaniu korzysta z zakurzonych romantycznych konwencji
 
