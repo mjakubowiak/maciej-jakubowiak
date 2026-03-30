@@ -11,5 +11,4 @@ Maciej Jakubowiak – ur. 1987, eseista, wicenaczelny magazynu „Dwutygodnik”
 
 ### A tutaj zdjęcie, którego autorem jest Bartosz Mikulski
 
-![Maciej Jakubowiak fot. Bartosz Mikulski.jpg](Maciej Jakubowiak fot. Bartosz Mikulski.jpg)
-
+![Maciej Jakubowiak fot. Bartosz Mikulski.jpg](Maciej-Jakubowiak-fot-Bartosz-Mikulski.jpg)
