@@ -9,15 +9,15 @@ website: yes
 
 **[„Hanka. Opowieść o awansie"](https://czarne.com.pl/katalog/ksiazki/hanka)** (Wydawnictwo Czarne, 2024)
 
-![](hanka.jpeg)
+![](obrazki/hanka.jpeg)
 
 **[„Ostatni ludzie. Wymyślanie końca świata"](https://czarne.com.pl/katalog/ksiazki/ostatni-ludzie)** (Wydawnictwo Czarne, 2021)
 
-![](ostatni.jpeg)
+![](obrazki/ostatni.jpeg)
 
 **[„Nieuchronny plagiat"](http://wydawnictwo.ibl.waw.pl/serie-wydawnicze/nowa-humanistyka/nieuchronny-plagiat?vid=2)** (Wydawnictwo IBL PAN, 2017)
 
-![](plagiat.jpeg)
+![](obrazki/plagiat.jpeg)
 
 ## Opublikowałem też
 
@@ -71,4 +71,4 @@ jestem literaturoznawcą. W 2017 roku obroniłem doktorat na Wydziale Polonistyk
 
 ## Jacek Taran zrobił mi kiedyś takieś zdjęcie
 
-![](mj.jpeg)
+![](obrazki/mj.jpeg)
