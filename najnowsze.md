@@ -2,10 +2,10 @@
 website: yes
 ---
 
-[najnowsze teksty](najnowsze.md) || [kontakt](kontakt.md)
+[najnowsze teksty](najnowsze.md) – [kontakt](kontakt.md) – [biogram i zdjęcie](bio.md)
 
 
-## A to ostatnie rzeczy, które opublikowałem:
+## A to ostatnie rzeczy, które napisałem:
 
 ### [Cała wstecz | Dwutygodnik](https://www.dwutygodnik.com/artykul/12388-cala-wstecz.html)
 
